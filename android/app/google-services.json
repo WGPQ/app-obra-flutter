@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513803386954",
+    "firebase_url": "https://db-app-obra-500f9.firebaseio.com",
+    "project_id": "db-app-obra-500f9",
+    "storage_bucket": "db-app-obra-500f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513803386954:android:710f1aca6f45f84bc426b3",
+        "android_client_info": {
+          "package_name": "com.example.app_obra_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513803386954-png6900jume9t4pfqhouhtj4tlutfc5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwhw059AX6PfZeUy28hHAm9HtCjIUPkNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513803386954-png6900jume9t4pfqhouhtj4tlutfc5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
